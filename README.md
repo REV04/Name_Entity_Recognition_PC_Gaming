@@ -1,6 +1,6 @@
 # Project Name
 
-This project called Gaming Scout. This is project team to fulfill final project at Hactiv8 and part of my personal portofolio in Data Science. My other personal project can be found at the [Nyoman Yudis Developer](https://github.com/nyomanyudisdeveloper)
+This project called Gaming Scout. This is project team to fulfill final project at Hactiv8 and part of my personal portofolio in Data Science. My other personal project can be found at the [Richard Edgina Virgo](https://github.com/REV04)
 
 #### -- Project Status: On-Hold
 
@@ -10,7 +10,7 @@ The purpose of this project is to get data discussion product PC Gaming from web
 
 ### Partner
 
-- Richard Edgina Virgo, [linkedin](https://www.linkedin.com/in/richard-edgina-virgo-a7435319b/) [github](https://github.com/REV04)
+- Nyoman Yudis Developer, [linkedin](https://www.linkedin.com/in/yudit%2Da%2D9941ab318/)
 - Muhammad Haykal Qobus, [linkedin](https://www.linkedin.com/in/muhammad-haykal-qobus-4b8b391a9/)
 
 ### Methods Used
@@ -37,7 +37,7 @@ The purpose of this project is to get data discussion product PC Gaming from web
 
 ## Project Description
 
-The dataset we used to create this model is from result webscrapping data discussion in [Tokopedia](https://www.tokopedia.com) with search product name "PC Gaming". With this dataset we do Exploratory Data Analysis(EDA) and found that most people discuss about Game, Device, Spek, and Activity. The conclusion in my EDA are :
+The dataset we used to create this model is from result webscrapping data discussion in [Tokopedia](https://www.tokopedia.com) with search product name "PC Gaming". With this dataset we do Exploratory Data Analysis(EDA) and found that most people discuss about Game, Device, Specs, and Activity. The conclusion in my EDA are :
 
 - people make game GTA as benchmark before buy or not PC Gaming
 - people prefer to buy PC that already include with monitor
@@ -54,7 +54,7 @@ And also we create model using this dataset to solve problem to get insight from
 4. Model training and evaluation script is being kept in data_scientist/model_training_and_evaluation.ipynb
 5. Model Inferential script is being kept in data_scientist/Model_inferential.ipynb
 6. Deployment model inferential using streamlit are being kept in folder data_scientist/deployment_streamlit/
-7. Exploratory Data Analysis (EDA) scripts is being kept in data_analust/index.ipynb
+7. Exploratory Data Analysis (EDA) scripts is being kept in data_analist/index.ipynb
 8. Webscrapping script is being kept in data_engineer/web_scrapping/index.py
 9. Create pipeline for batch processing ETL script is being kept in data_engineer/docker_mer_pc_gaming/dags/pipeline_ETL_dataRaw_to_dataClean.py
 
@@ -65,4 +65,4 @@ And also we create model using this dataset to solve problem to get insight from
 
 ## Contact
 
-- If you have any question or want to contribute with this project, feel free to ask me in [linkedin](https://www.linkedin.com/in/yudit-a-9941ab318/) or my partners.
+- If you have any question or want to contribute with this project, feel free to ask me in [linkedin](https://www.linkedin.com/in/richard-edgina-virgo-a7435319b/) or my partners.
